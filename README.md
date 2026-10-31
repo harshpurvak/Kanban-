@@ -106,7 +106,7 @@ The forms include basic validation such as:
 
 ## Responsive Design
 
-The board uses a responsive layout:
+The board uses a responsive layout
 
 * Desktop: Todo, In Progress, and Completed columns are displayed side by side.
 * Mobile: Columns are stacked vertically for easier navigation.
